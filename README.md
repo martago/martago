@@ -17,5 +17,7 @@ Only via GitHub :) I like my privacy.
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martago&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martago&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/Martago)
